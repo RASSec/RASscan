@@ -1,4 +1,4 @@
-language: python2.7
+language: python
 script: true
 sudo: required
-script: RASscan.py
+script: python RASscan.py
