@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
-# code by 1904521507
+# code by yds
 import Queue
 import threading
 from threading import Thread
