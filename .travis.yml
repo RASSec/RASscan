@@ -1,2 +1,2 @@
-language: python
+language: python2.7
 script: true
